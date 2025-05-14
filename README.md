@@ -1,30 +1,41 @@
-# Quickcrank delivery website
+# Quickcrank Delivery Website
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+![Quickcrank Delivery Logo](public/images/site-logo.jpg)
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/eze-davids-projects/v0-quickcrank-delivery-website)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/XNElGiZI5o0)
+A modern, responsive delivery service website for Quickcrank Delivery, offering fast and affordable delivery services for supermarket runs, pharmacy pickups, food delivery, and more.
 
-## Overview
+## 🚀 Live Demo
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+[View Live Demo](https://your-deployment-url.com)
 
-## Deployment
+## ✨ Features
 
-Your project is live at:
+- **Responsive Design**: Fully responsive layout that works on mobile, tablet, and desktop devices
+- **Order System**: Intuitive interface for customers to place delivery orders
+- **Real-time Tracking**: Order tracking system with status updates
+- **Admin Dashboard**: Secure admin panel to manage orders and update delivery status
+- **WhatsApp Integration**: Direct order submission via WhatsApp
+- **Local Storage**: Order data persistence using browser local storage
+- **Custom Product Search**: Search functionality with autocomplete suggestions
+- **Dynamic Pricing**: Automatic delivery fee calculation based on location
 
-**[https://vercel.com/eze-davids-projects/v0-quickcrank-delivery-website](https://vercel.com/eze-davids-projects/v0-quickcrank-delivery-website)**
+## 🛠️ Technologies Used
 
-## Build your app
+- **Next.js 14**: React framework with App Router for efficient page routing
+- **TypeScript**: For type-safe code
+- **Tailwind CSS**: For responsive and customizable styling
+- **Shadcn UI**: Component library for consistent UI elements
+- **Lucide React**: For beautiful icons
+- **Local Storage API**: For data persistence
 
-Continue building your app on:
+## 📋 Prerequisites
 
-**[https://v0.dev/chat/projects/XNElGiZI5o0](https://v0.dev/chat/projects/XNElGiZI5o0)**
+- Node.js 18.x or higher
+- npm or yarn
 
-## How It Works
+## 🔧 Installation
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/quickcrank-delivery.git
+   cd quickcrank-delivery
